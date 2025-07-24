@@ -1,0 +1,1 @@
+python ./track/run_tracking_batch.py results > result/track_log/results.txt

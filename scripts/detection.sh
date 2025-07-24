@@ -1,0 +1,1 @@
+python ./detecttion/get_detection.py --scene 061 --batchsize 8
